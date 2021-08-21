@@ -15,6 +15,8 @@ switch (userInput){
             console.log(userInput);
 
         }
+    case "chocolate":
+        prompt    
 }
 
 switch(userInput){
